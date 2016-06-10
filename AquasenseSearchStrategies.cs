@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using Dvit.OpenBiz.Reservation;
 using Dvit.OpenBiz.Pcl;
 
+Hier wat aanpassingen
+
 namespace Dvit.OpenBiz.Services
 {
     public class AquasenseSearchStrategies
